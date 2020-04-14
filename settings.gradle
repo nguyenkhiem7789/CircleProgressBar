@@ -1,2 +1,2 @@
-include ':app', ':circleprogressview'
+include ':sample', ':circleprogressview'
 rootProject.name='CircleProgressBar'

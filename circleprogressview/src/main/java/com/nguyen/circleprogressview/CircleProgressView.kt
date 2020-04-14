@@ -60,6 +60,7 @@ class CircleProgressView: View {
         textColor = typeArray.getColor(R.styleable.CircleProgressView_pro_text_color, DEFAULT_TEXT_COLOR)
         strokeWidth = typeArray.getDimensionPixelSize(R.styleable.CircleProgressView_pro_stroke_width, DEFAULT_STROKE_WIDTH)
         textSize = typeArray.getDimensionPixelSize(R.styleable.CircleProgressView_pro_text_size, DEFAULT_TEXT_SIZE)
+        typeArray.recycle()
         init()
     }
 
