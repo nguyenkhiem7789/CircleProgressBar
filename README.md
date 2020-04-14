@@ -27,4 +27,18 @@ Step 2. Add the dependency
 	        implementation 'com.github.nguyenkhiem7789:CircleProgressBar:Tag'
 	}
 
-Share this release:
+Usage
+
+...
+
+    <com.nguyen.circleprogressview.CircleProgressView
+        android:id="@+id/circleProgressBar"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_centerInParent="true"
+        app:pro_text_size="50dp"
+        app:pro_stroke_width="4dp"
+        app:pro_primary_color="@color/colorAccent"
+        app:pro_text_color="@color/colorPrimaryDark"
+        />
+...
