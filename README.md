@@ -24,7 +24,7 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.nguyenkhiem7789:CircleProgressBar:Tag'
+	        implementation 'com.github.nguyenkhiem7789:CircleProgressBar:0.1.0'
 	}
 
 Usage
