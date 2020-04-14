@@ -1,6 +1,6 @@
 # CircleProgressBar
 
-![](https://user-images.githubusercontent.com/18132015/79177193-6b2d1980-7e2c-11ea-9034-246c16d62d8e.png)
+<img src="https://user-images.githubusercontent.com/18132015/79177193-6b2d1980-7e2c-11ea-9034-246c16d62d8e.png" width="300">
 
 How to
 
